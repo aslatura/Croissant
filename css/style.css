@@ -6,8 +6,9 @@ h1 {
   text-align: center;
 }
 
-p {
+h2 {
   text-align: center;
+  font-weight: normal;
 }
 
 footer {
